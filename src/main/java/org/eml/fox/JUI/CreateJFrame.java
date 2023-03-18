@@ -34,6 +34,6 @@ public class CreateJFrame {
         Image icon = toolkit.getImage("org.eml.fox.util.images.Icon.jpg");
         jframe.setIconImage(icon);
         //设置窗口名字
-        jframe.setTitle("魔影我的世界启动器");
+        jframe.setTitle("末影我的世界启动器");
     }
 }
