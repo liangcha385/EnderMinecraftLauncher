@@ -10,6 +10,7 @@ import org.eml.fox.JUI.CreateJFrame;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello EnderMinecraftLauncher!");
+        //设置窗口大小
         CreateJFrame.main(864,524);
     }
 }
